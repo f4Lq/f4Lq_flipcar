@@ -2,8 +2,8 @@ fx_version 'adamant'
 lua54 'yes'
 game 'gta5'
 
-name 'falq_flipcar'
-author 'faLq'
+name 'f4lq_flipcar'
+author 'f4Lq'
 version '1.1.0'
 description 'Use the E key to flip the vehicle. Used progressBar ox_lib.'
 
